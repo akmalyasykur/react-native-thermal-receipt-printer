@@ -1,4 +1,4 @@
-package com.akmalprint1.react.printer.adapter;
+package com.thermalreceipt.react.printer.adapter;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;

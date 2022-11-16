@@ -1,4 +1,4 @@
-package com.akmalprint1.react.printer.adapter;
+package com.thermalreceipt.react.printer.adapter;
 
 import android.app.Activity;
 import android.content.Context;

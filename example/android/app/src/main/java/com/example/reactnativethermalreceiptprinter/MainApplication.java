@@ -11,7 +11,7 @@ import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
-import com.akmalprint1.react.printer.RNPrinterPackage;
+import com.thermalreceipt.react.printer.RNThermalReceiptPackage;
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -28,7 +28,7 @@ public class MainApplication extends Application implements ReactApplication {
           List<ReactPackage> packages = new PackageList(this).getPackages();
           // Packages that cannot be autolinked yet can be added manually here, for ThermalReceiptPrinterExample:
           // packages.add(new MyReactNativePackage());
-          packages.add(new RNPrinterPackage());
+          packages.add(new RNThermalReceiptPackage());
 
           return packages;
         }

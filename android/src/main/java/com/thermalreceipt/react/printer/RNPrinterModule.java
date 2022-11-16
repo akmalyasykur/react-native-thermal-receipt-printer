@@ -1,4 +1,4 @@
-package com.akmalprint1.react.printer;
+package com.thermalreceipt.react.printer;
 
 
 import android.hardware.usb.UsbDevice;
@@ -11,9 +11,9 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableMap;
-import com.akmalprint1.react.printer.adapter.PrinterAdapter;
-import com.akmalprint1.react.printer.adapter.PrinterDevice;
-import com.akmalprint1.react.printer.adapter.PrinterDeviceId;
+import com.thermalreceipt.react.printer.adapter.PrinterAdapter;
+import com.thermalreceipt.react.printer.adapter.PrinterDevice;
+import com.thermalreceipt.react.printer.adapter.PrinterDeviceId;
 
 import java.util.List;
 

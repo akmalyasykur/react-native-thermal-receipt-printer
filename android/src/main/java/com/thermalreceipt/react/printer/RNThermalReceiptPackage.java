@@ -1,4 +1,4 @@
-package com.akmalprint1.react.printer;
+package com.thermalreceipt.react.printer;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
@@ -13,7 +13,7 @@ import java.util.List;
  * Created by xiesubin on 2017/9/21.
  */
 
-public class RNPrinterPackage implements ReactPackage {
+public class RNThermalReceiptPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         return Arrays.asList(new NativeModule[]{

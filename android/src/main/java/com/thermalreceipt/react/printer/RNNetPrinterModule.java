@@ -1,4 +1,4 @@
-package com.akmalprint1.react.printer;
+package com.thermalreceipt.react.printer;
 
 import android.util.Log;
 
@@ -6,10 +6,10 @@ import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
-import com.akmalprint1.react.printer.adapter.BLEPrinterDeviceId;
-import com.akmalprint1.react.printer.adapter.NetPrinterAdapter;
-import com.akmalprint1.react.printer.adapter.NetPrinterDeviceId;
-import com.akmalprint1.react.printer.adapter.PrinterAdapter;
+import com.thermalreceipt.react.printer.adapter.BLEPrinterDeviceId;
+import com.thermalreceipt.react.printer.adapter.NetPrinterAdapter;
+import com.thermalreceipt.react.printer.adapter.NetPrinterDeviceId;
+import com.thermalreceipt.react.printer.adapter.PrinterAdapter;
 
 /**
  * Created by xiesubin on 2017/9/22.

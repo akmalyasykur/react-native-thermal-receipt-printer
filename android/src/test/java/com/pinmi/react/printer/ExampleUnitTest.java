@@ -1,4 +1,4 @@
-package com.akmalprint1.react.printer;
+package com.thermalreceipt.react.printer;
 
 import org.junit.Test;
 
