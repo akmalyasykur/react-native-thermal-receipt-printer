@@ -1,4 +1,4 @@
-package com.pinmi.react.printer.adapter;
+package com.akmalprint1.react.printer.adapter;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -46,7 +46,7 @@ import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
 import com.google.zxing.qrcode.QRCodeWriter;
 import com.google.zxing.qrcode.encoder.ByteMatrix;
-import com.pinmi.react.printer.R;
+import com.akmalprint1.react.printer.R;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -240,7 +240,7 @@ public class BLEPrinterAdapter implements PrinterAdapter{
     }
 
 
-    
+
 
     public static Bitmap getBitmapFromURL(String src) {
         try {
@@ -468,5 +468,5 @@ public class BLEPrinterAdapter implements PrinterAdapter{
         return resized;
     }
 
-   
+
 }

@@ -1,4 +1,4 @@
-package com.pinmi.react.printer;
+package com.akmalprint1.react.printer;
 
 import android.util.Log;
 
@@ -6,10 +6,10 @@ import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
-import com.pinmi.react.printer.adapter.BLEPrinterDeviceId;
-import com.pinmi.react.printer.adapter.NetPrinterAdapter;
-import com.pinmi.react.printer.adapter.NetPrinterDeviceId;
-import com.pinmi.react.printer.adapter.PrinterAdapter;
+import com.akmalprint1.react.printer.adapter.BLEPrinterDeviceId;
+import com.akmalprint1.react.printer.adapter.NetPrinterAdapter;
+import com.akmalprint1.react.printer.adapter.NetPrinterDeviceId;
+import com.akmalprint1.react.printer.adapter.PrinterAdapter;
 
 /**
  * Created by xiesubin on 2017/9/22.

@@ -1,4 +1,4 @@
-package com.pinmi.react.printer.adapter;
+package com.akmalprint1.react.printer.adapter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -23,7 +23,7 @@ import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
 import com.google.zxing.qrcode.QRCodeWriter;
 import com.google.zxing.qrcode.encoder.ByteMatrix;
-import com.pinmi.react.printer.R;
+import com.akmalprint1.react.printer.R;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

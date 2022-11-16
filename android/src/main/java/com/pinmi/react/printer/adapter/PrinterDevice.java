@@ -1,4 +1,4 @@
-package com.pinmi.react.printer.adapter;
+package com.akmalprint1.react.printer.adapter;
 
 import android.hardware.usb.UsbDevice;
 

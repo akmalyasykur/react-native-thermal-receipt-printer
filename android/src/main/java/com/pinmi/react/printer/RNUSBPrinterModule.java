@@ -1,4 +1,4 @@
-package com.pinmi.react.printer;
+package com.akmalprint1.react.printer;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Callback;
@@ -6,10 +6,10 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.WritableArray;
-import com.pinmi.react.printer.adapter.PrinterAdapter;
-import com.pinmi.react.printer.adapter.PrinterDevice;
-import com.pinmi.react.printer.adapter.USBPrinterAdapter;
-import com.pinmi.react.printer.adapter.USBPrinterDeviceId;
+import com.akmalprint1.react.printer.adapter.PrinterAdapter;
+import com.akmalprint1.react.printer.adapter.PrinterDevice;
+import com.akmalprint1.react.printer.adapter.USBPrinterAdapter;
+import com.akmalprint1.react.printer.adapter.USBPrinterDeviceId;
 
 import java.util.List;
 
